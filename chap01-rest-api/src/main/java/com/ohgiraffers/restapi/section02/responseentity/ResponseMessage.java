@@ -1,4 +1,4 @@
-package com.ohgiraffers.restapi.section02.respsonsseentity;
+package com.ohgiraffers.restapi.section02.responseentity;
 
 import lombok.*;
 
@@ -13,6 +13,6 @@ public class ResponseMessage {
 
     private int httpStatusCode;
     private String message;
-    private Map<String,Object> results;
+    private Map<String, Object> results;
 
 }

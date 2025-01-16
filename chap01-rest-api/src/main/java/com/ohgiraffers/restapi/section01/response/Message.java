@@ -9,7 +9,7 @@ import lombok.*;
 @ToString
 public class Message {
 
-    private int httpStatus;
+    private int httpStatusCode;
     private String message;
 
 }

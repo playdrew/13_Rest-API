@@ -1,4 +1,4 @@
-package com.ohgiraffers.restapi.section02.respsonsseentity;
+package com.ohgiraffers.restapi.section02.responseentity;
 
 import lombok.*;
 
